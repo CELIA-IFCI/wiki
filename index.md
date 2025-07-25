@@ -45,7 +45,7 @@ Site web du laboratoire CELIA: [https://celia-bordeaux.cnrs.fr](https://celia-bo
 
 Le projet VAE consiste en la génération de données par autoencodeur variationnel. Deux types de données peuvent être utilisées pour l'entraînement du modèle IA et pour la génération : des profils temporels d'énergie laser pour l'implosion de cibles pour la fusion par confinement inertiel, et des profils géométriques de cibles hélicoïdales pour l'accélération de protons par laser.
 
-La structure du code est résumée dans [ce document](docs/rapport.pdf).
+La structure du code est résumée dans [ce document](docs/Récapitulatif_VAE_Hélices.pdf).
 
 ---
 ## Contributions
